@@ -13,8 +13,14 @@ Doc for $repo_name.
 <!--
 <p align="center">
   <a href="https://www.npmjs.com/package/$repo_name"><img src="https://img.shields.io/npm/v/$repo_name" alt="npm"></a>
+  <a href="https://www.npmjs.com/package/$repo_name"><img src="https://img.shields.io/npm/dm/$repo_name" alt="npm"></a>
+  <a href="https://www.npmjs.com/package/$repo_name"><img src="https://img.shields.io/npm/l/$repo_name" alt="npm"></a>
 </p>
 -->
 
 ## How to use
+
+```sh
+npm i $repo_name
+```
 
